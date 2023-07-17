@@ -337,6 +337,7 @@ footer p {
   .container {
     flex-direction: column;
     padding: 10px;
+    margin: 0;
   }
 
   .left_side {
