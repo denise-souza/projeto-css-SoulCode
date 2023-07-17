@@ -382,3 +382,21 @@ footer p {
     height: 180px;
   }
 }
+@media (max-width: 1974px) {
+  .floating-buttons-container {
+    flex-direction: column-reverse;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  .floating-button {
+    margin-bottom: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+  }
+
+  .floating-button i {
+    font-size: 20px;
+  }
+}
